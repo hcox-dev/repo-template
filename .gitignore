@@ -1,0 +1,24 @@
+# General
+.DS_Store
+*.log
+
+# C/C++
+*.o
+app
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Node
+node_modules/
+dist/
+
+# Rust
+target/
+
+# Go
+bin/
+
